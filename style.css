@@ -30,3 +30,11 @@ body{
     position: absolute;
 
 }
+
+.content{
+    position: absolute;
+    left: 45%;
+    top: 40%;
+    width: 2000px;
+    height: 2000px;
+}
